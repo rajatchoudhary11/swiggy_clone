@@ -1,0 +1,10 @@
+.slick-slide img {
+  margin: auto;
+  width: 80%;
+  height: 80%;
+}
+
+.slick-slide img:hover {
+  width: 81%;
+  height: 81%;
+}

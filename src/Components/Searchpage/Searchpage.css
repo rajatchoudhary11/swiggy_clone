@@ -1,0 +1,26 @@
+.tab:hover {
+    color: rgb(236, 118, 8) !important;
+  }
+  
+  .slogo:hover {
+    width: 38px;
+  }
+  
+  .food:hover {
+    border-radius: 5px;
+    box-shadow: 1px 2px 9px;
+  }
+  
+  .text {
+    display: none;
+  }
+  
+  .food:hover .text {
+    display: block;
+  }
+  
+  .rating,
+  .time,
+  .price {
+    font-size: 12px;
+  }
